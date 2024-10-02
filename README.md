@@ -30,11 +30,9 @@ This project investigates the exponential distribution using R and compares it t
    - Compiled HTML file from the R Markdown, providing a user-friendly version of the report with embedded figures and explanations.
 
 3. **`pdf Files`**: 
-   - Contains the pdf version of the html files for easy access
-   
-4. Stasistical-Inference.Rproj : 
-5. .gitignore file 
-6. README.md 
+   - Contains the pdf version of the html files for easy access 
+4. .gitignore file 
+5. README.md 
    
 ## Source Data Links
 1. **ToothGrowth dataset**: Available in R's built-in datasets package. No external download is necessary.
