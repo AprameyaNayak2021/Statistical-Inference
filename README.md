@@ -19,29 +19,25 @@ This project investigates the exponential distribution using R and compares it t
    - Draw conclusions based on statistical techniques taught in class.
 
 ## Files and Directories
-1. **`report.Rmd`**: 
+1. **`Rmd Files`**: Exponential_cd.Rmd, Inferential Data Analysis_Tooth_Growth.Rmd
    - R Markdown file containing the code and explanations for the project. This includes:
-     - Simulations of the exponential distribution.
+     - Simulations of the exponential distribution. 
      - Comparisons of sample means and variances with theoretical values.
      - Distribution plots.
      - ToothGrowth data analysis with hypothesis testing and confidence intervals.
    
-2. **`report.html`**: 
+2. **`HTML Files`**: 
    - Compiled HTML file from the R Markdown, providing a user-friendly version of the report with embedded figures and explanations.
 
-3. **`data`**: 
-   - Contains any data files required for the analysis. The ToothGrowth dataset is available within the R datasets package.
-
-4. **`figures`**: 
-   - Contains figures generated in the report, including plots of the exponential distribution simulations and the ToothGrowth data analysis.
-
+3. **`pdf Files`**: 
+   - Contains the pdf version of the html files for easy access
+   
+4. Stasistical-Inference.Rproj : 
+5. .gitignore file 
+6. README.md 
+   
 ## Source Data Links
-- **ToothGrowth dataset**: Available in R's built-in datasets package. No external download is necessary.
-  
-## R Package Requirements
-- **ggplot2** for data visualization.
-- **datasets** for access to the ToothGrowth dataset.
-- **stats** for hypothesis testing and confidence intervals.
+1. **ToothGrowth dataset**: Available in R's built-in datasets package. No external download is necessary.
 
 
-have a great day!
+Have a Great Day!!!
